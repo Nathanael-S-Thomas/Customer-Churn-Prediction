@@ -1,0 +1,19 @@
+{
+  "rows": 5000,
+  "columns": [
+    "customer_id",
+    "tenure_months",
+    "monthly_charges",
+    "contract_type",
+    "internet_service",
+    "payment_method",
+    "tech_support",
+    "paperless_billing",
+    "senior_citizen",
+    "dependents",
+    "churn"
+  ],
+  "synthetic_demo_data": true,
+  "seed": 42,
+  "churn_rate_percent": 37.86
+}
